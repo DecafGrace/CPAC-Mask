@@ -28,7 +28,9 @@ In this phase is the actual filter, which places Pinky's hair onto the user.  Bl
 
 
 Credits
+
 BlazeFace tenplate by Jeff Thompson 
+
 Jeff on collision detection 
 https://www.jeffreythompson.org/collision-detection/point-rect.php
 
