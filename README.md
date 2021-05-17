@@ -27,9 +27,9 @@ https://user-images.githubusercontent.com/84292881/118466519-eec0d600-b6d0-11eb-
 In this phase is the actual filter, which places Pinky's hair onto the user.  Blazeface, a lightweight face detection model, is used to place the hair, which is centered on the nose, and resizes based on the width of the face. atan2() is used to calculate the angle between the eyes, to also appropriately rotate the hair image when the head is turned. 
 
 
-Credits: 
+Credits
 BlazeFace tenplate by Jeff Thompson 
-Jeff on collision detection: 
+Jeff on collision detection 
 https://www.jeffreythompson.org/collision-detection/point-rect.php
 
 Info on blazeface face detection:
